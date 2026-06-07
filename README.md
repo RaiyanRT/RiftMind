@@ -34,7 +34,7 @@ RiftMind reads live game state via Overwolf's Game Events Provider from the loca
 
 ## Roadmap (post-MVP)
 
-**Objective reminders** — Dragon, Baron, Rift Herald, Void Grubs. Alert fires a customisable number of seconds before spawn, using the same notification system as habit reminders.
+**Objective reminders**: Dragon, Baron, Rift Herald, Void Grubs. Alert fires a customisable number of seconds before spawn, using the same notification system as habit reminders.
 
 ## Status
 
