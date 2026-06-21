@@ -38,4 +38,4 @@ RiftMind reads live game state via Overwolf's Game Events Provider from the loca
 
 ## Status
 
-Currently in the application phase and waiting for approval. 
+Currently in the application phase and waiting for approval. This approval is required before I can begin developing the app on the Overwolf platform.
